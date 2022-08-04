@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **React, redux, computer science studies**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://wiktor-bandzyra-portfolio.netlify.app](https://wiktor-bandzyra-portfolio.netlify.app)
 
-- 📫 How to reach me **bandzyrka@gmail.com**
+- 📫 How to reach me **wiktor.bandzyra@gmail.com**
 
 - ⚡ Fun fact **I play guitar**
 
